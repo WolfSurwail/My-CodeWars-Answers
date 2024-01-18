@@ -7,5 +7,6 @@ public class a101DalmatiansSquashTheBugsNotTheDogs {
                         number == 101 ? "101 DALMATIANS!!!" : "Woah that's a lot of dogs!";
 
 
+
     }
 }
