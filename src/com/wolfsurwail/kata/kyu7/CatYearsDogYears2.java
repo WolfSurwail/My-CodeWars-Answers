@@ -7,6 +7,5 @@ public class CatYearsDogYears2 {
         return new int[]{ownedCat, ownedDog};
 
 
-
     }
 }
