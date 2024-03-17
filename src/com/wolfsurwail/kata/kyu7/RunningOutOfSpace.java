@@ -6,4 +6,9 @@ public class RunningOutOfSpace {
             array[i] = array[i-1] + array[i];
         return array;
     }
+
+
+
+
+
 }
