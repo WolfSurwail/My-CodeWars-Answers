@@ -7,5 +7,4 @@ public class RunningOutOfSpace {
         return array;
     }
 
-
 }
