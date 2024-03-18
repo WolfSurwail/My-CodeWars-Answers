@@ -5,5 +5,4 @@ public class Switcheroo {
         return x.replaceAll("a","j").replaceAll("b","a").replaceAll("j","b");
     }
 
-
 }
