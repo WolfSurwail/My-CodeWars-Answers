@@ -5,6 +5,5 @@ public class Steps {
         return (int) Math.sqrt((4L * (y - x)) - 1);
 
 
-
     }
 }
