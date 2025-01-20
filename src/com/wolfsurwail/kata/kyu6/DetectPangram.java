@@ -3,6 +3,7 @@ package com.wolfsurwail.kata.kyu6;
 
 
 
+
 public class DetectPangram {
     public boolean check(String sentence) {
         boolean[] alphabet = new boolean[26];
